@@ -15,6 +15,9 @@ def first_challenge
 
   #your code here
   
+   contacts["Freddy Mercury"]
+      
+  end
  
 
 
